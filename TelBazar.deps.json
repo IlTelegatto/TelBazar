@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "TelBazar/1.0.0": {
+      "TelBazar/1.0.0.2": {
         "dependencies": {
           "XamlAnimatedGif": "1.2.3"
         },
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "TelBazar/1.0.0": {
+    "TelBazar/1.0.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
