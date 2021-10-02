@@ -4,5 +4,5 @@ TelBazar is App For Windows
 Created By Il Telegatto#7777
 # Requirement
 -Net 
-https://dotnet.microsoft.com/download/dotnet/5.0/runtime
+https://dotnet.microsoft.com/download/dotnet/3.1/runtime
 (install the one in the center "Run Desktop Apps")
