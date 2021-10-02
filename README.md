@@ -6,3 +6,5 @@ Created By Il Telegatto#7777
 -Net 
 https://dotnet.microsoft.com/download/dotnet/3.1/runtime
 (install the one in the center "Run Desktop Apps")
+# Gifts Codes
+Tel
